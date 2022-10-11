@@ -7,11 +7,12 @@
 
 .btn {
     margin: 20px;
+    box-shadow: 5px 5px 1px 1px rgba(19, 174, 185, 0.3);
 }
 
 .output {
     text-align: center;
-    color: rgb(0, 77, 128);
+    color: rgb(0, 128, 128);
     font-size: 50px;
     font-weight: bold;
 }
