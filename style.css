@@ -7,7 +7,7 @@
 
 .btn {
     margin: 20px;
-    box-shadow: 5px 5px 1px 1px rgba(19, 174, 185, 0.3);
+    box-shadow: 0px 5px 10px rgba(19, 174, 185, 0.3);
 }
 
 .btn:hover {
